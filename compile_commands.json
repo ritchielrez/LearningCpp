@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ritux/dev/LearningCpp/main/src",
+  "command": "/bin/c++  -I/home/ritux/dev/LearningCpp/main/include  -o CMakeFiles/main.dir/main.cpp.o -c /home/ritux/dev/LearningCpp/main/src/main.cpp",
+  "file": "/home/ritux/dev/LearningCpp/main/src/main.cpp"
+}
+]

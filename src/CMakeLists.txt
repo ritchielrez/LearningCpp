@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.0)
+
+ADD_EXECUTABLE(main main.cpp)
+
+INCLUDE_DIRECTORIES(${PROJECT_SOURCE_DIR}/include)
+
+SET(EXECUTABLE_OUTPUT_PATH ${PROJECT_BINARY_DIR}/bin)
+
