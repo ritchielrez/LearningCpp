@@ -1,8 +1,5 @@
-#include <iostream>
 #include <fmt/core.h>
 
 int main() {
-    fmt::print("Hello\n");
-    //printf("Hello");
-    //std::cout<<"Hello";
+    fmt::print("Hello {1}{0}{1}", "World!", "\n");
 }
