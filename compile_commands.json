@@ -1,7 +1,7 @@
 [
 {
   "directory": "/home/ritux/dev/LearningCpp/main/src",
-  "command": "/bin/c++  -I/home/ritux/dev/LearningCpp/main/include  -o CMakeFiles/main.dir/main.cpp.o -c /home/ritux/dev/LearningCpp/main/src/main.cpp",
+  "command": "/bin/c++ -DFMT_LOCALE -I/home/ritux/dev/LearningCpp/main/src/../include -isystem /home/ritux/dev/vcpkg/installed/x64-linux/include  -o CMakeFiles/main.dir/main.cpp.o -c /home/ritux/dev/LearningCpp/main/src/main.cpp",
   "file": "/home/ritux/dev/LearningCpp/main/src/main.cpp"
 }
 ]

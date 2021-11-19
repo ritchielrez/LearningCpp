@@ -1,1 +1,1 @@
-/bin/c++ -rdynamic CMakeFiles/main.dir/main.cpp.o -o ../bin/main 
+/bin/c++ -rdynamic CMakeFiles/main.dir/main.cpp.o -o ../bin/main  /home/ritux/dev/vcpkg/installed/x64-linux/debug/lib/libfmtd.a 

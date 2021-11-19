@@ -11,12 +11,6 @@ set(CMAKE_MAKEFILE_DEPENDS
   "CMakeFiles/3.21.4/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.21.4/CMakeSystem.cmake"
   "CMakeLists.txt"
-  "src/CMakeLists.txt"
-  "/home/ritux/dev/vcpkg/installed/x64-linux/share/fmt/fmt-config-version.cmake"
-  "/home/ritux/dev/vcpkg/installed/x64-linux/share/fmt/fmt-config.cmake"
-  "/home/ritux/dev/vcpkg/installed/x64-linux/share/fmt/fmt-targets-debug.cmake"
-  "/home/ritux/dev/vcpkg/installed/x64-linux/share/fmt/fmt-targets-release.cmake"
-  "/home/ritux/dev/vcpkg/installed/x64-linux/share/fmt/fmt-targets.cmake"
   "/usr/local/share/cmake-3.21/Modules/CMakeCInformation.cmake"
   "/usr/local/share/cmake-3.21/Modules/CMakeCXXInformation.cmake"
   "/usr/local/share/cmake-3.21/Modules/CMakeCommonLanguageInclude.cmake"
@@ -45,10 +39,9 @@ set(CMAKE_MAKEFILE_OUTPUTS
 # Byproducts of CMake generate step:
 set(CMAKE_MAKEFILE_PRODUCTS
   "CMakeFiles/CMakeDirectoryInformation.cmake"
-  "src/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
-  "src/CMakeFiles/main.dir/DependInfo.cmake"
+  "CMakeFiles/main.dir/DependInfo.cmake"
   )

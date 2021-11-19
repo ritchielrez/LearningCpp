@@ -1,16 +1,8 @@
-#include <main.h>
-#include <string>
-
-using std::cout;
-using std::cin;
-using std::getline;
-using std::string;
-using std::vector;
-using std::string;
+#include <iostream>
+#include <fmt/core.h>
 
 int main() {
-
-    cout << random() << "\n";
-
-    return 0;
+    fmt::print("Hello\n");
+    //printf("Hello");
+    //std::cout<<"Hello";
 }
