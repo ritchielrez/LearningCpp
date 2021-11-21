@@ -9,7 +9,9 @@ using std::string;
 
 int main() {
   // Here, we're using positional arguments to format strings like C#
-  string s = format("Hello {1}{0}{1}", "World!", "\n");
+
+  // auto let's us automatically detect the data type
+  auto s = format("Hello {1}{0}{1}", "World!", "\n");
 
   print("{}", s);
 
